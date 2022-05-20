@@ -1,6 +1,6 @@
 ---
 source-git-commit: 45b5e3d8839ce08c208eb30eb18c0924ba9564c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '430'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ Wie Sie Beiträge einbringen, hängt davon ab, wer Sie sind und welche Art von �
 
 ### Geringfügige Änderungen
 
-Wenn Sie kleinere Aktualisierungen beisteuern, gehen Sie zum Artikel und klicken Sie auf den Link **Bearbeiten** im Artikel, der zur GitHub-Quelle für den Artikel führt. Verwenden Sie dann einfach die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Wenn Sie kleinere Aktualisierungen beisteuern, gehen Sie zum Artikel und klicken Sie auf den Link **Bearbeiten** im Artikel, der zur GitHub-Quelle für den Artikel führt. Verwenden Sie dann einfach die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
 
 Kleinere Korrekturen oder Erläuterungen, die Sie für Dokumentation und Codebeispiele in diesem Repo einreichen, werden von den Adobe-Nutzungsbedingungen abgedeckt.
 
@@ -43,7 +43,7 @@ Wenn es zu Ihren Aufgaben als technischer Redakteur, Programm-Manager oder Entwi
 
 Communitymitwirkende können die GitHub-UI zur grundlegenden Bearbeitung verwenden oder das Repo zum Beisteuern größerer Beiträge forken.
 
-Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
 
 ## Verwendung von Markdowns zum Formatieren Ihres Themas
 
