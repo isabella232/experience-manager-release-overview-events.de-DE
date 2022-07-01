@@ -6,7 +6,7 @@ exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 78db7decd3b6283f8a20766e7f8aa4a19adc8a26
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
       <div>
         <a href="./2022/2022-6-0.md">
           <strong>Version | 2022.6.0</strong>
-          <br/>
-        </a>
-          <em>Releasedatum: 30. Juni 2022 </em>
+        <br/>
+      </a>
+        <em>Veröffentlichungsdatum: 30. Juni 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
@@ -48,9 +48,9 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
       <div>
         <a href="./2022/2022-5-0.md">
           <strong>Version | 2022.5.0</strong>
-          <br/>
-        </a>
-          <em>Releasedatum: 9. Juni 2022 </em>
+        <br/>
+      </a>
+        <em>Veröffentlichungsdatum: 9. Juni 2022 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionshinweise</a>
