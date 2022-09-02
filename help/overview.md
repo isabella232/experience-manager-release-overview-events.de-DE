@@ -5,8 +5,8 @@ user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 4d0eacb8ca0876f1a791eba4b05b468c6506ec40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 97%
 
 ---
 
