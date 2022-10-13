@@ -3,9 +3,9 @@ title: Versionsübersicht zu Adobe Experience Manager as a Cloud Service
 description: Schneller Überblick über die neuesten Funktionen in Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: 8dde75778f146a1e41330404143427137bd15c6e
-workflow-type: tm+mt
-source-wordcount: '192'
+source-git-commit: 09eff0698bf3d1bc34c1306911f2b63a297634f3
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -53,7 +53,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
           <em>Veröffentlichungsdatum 8. August 2022</em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionshinweise</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
     <td>
@@ -68,7 +68,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <em>Veröffentlichungsdatum: 30. Juni 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionshinweise</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
     <td>
@@ -83,7 +83,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <em>Veröffentlichungsdatum: 9. Juni 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionshinweise</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
   </tr>
@@ -100,7 +100,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <em>Veröffentlichungsdatum: 5. Mai 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionshinweise</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
     <td>
@@ -115,7 +115,7 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
         <em>Veröffentlichungsdatum: 31. März 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Versionshinweise</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=de">Versionshinweise</a>
       <p>
     </td>
     <td>
@@ -159,12 +159,12 @@ Verschaffen Sie sich einen schnellen Überblick über die neuesten Funktionen in
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="./2022/2022-9-0.md">
-        <img alt="2022.9.0 Release" src="./2022/assets/2022-9-0-thumb.png" />
+      <a href="./2022/2022-10-0.md">
+        <img alt="2022.10.0 Release" src="./2022/assets/2022-10-0-thumb.png" />
       </a>
       <div>
-        <a href="./2022/2022-9-0.md">
-          <strong>Release | 2022.9.0</strong>
+        <a href="./2022/2022-10-0.md">
+          <strong>Release | 2022.10.0</strong>
           <br/>
         </a>
           <em>Release date  Oct 13, 2022 </em>
